@@ -3,4 +3,4 @@
 ## Welcome to the Skellig.ai Blog
 
 Welcome to our new blog page for [Skellig.ai](https://www.skellig.ai/)
-Overtime we will populate this blog with posts on community AI programs, machine learning projects and how machine learning can help your organisation. 
+Overtime we will populate this blog with posts on community machine learning programs, machine learning projects and how machine learning can help your organisation. 
