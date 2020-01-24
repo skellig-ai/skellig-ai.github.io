@@ -1,5 +1,3 @@
-![Image of Skellig.ai logo](images/Skellig_AI_Logo.png)
-
 # The Start of a new journey
 Back in Nov 2018 I gave a talk at my local tech group in Sligo, Ireland, on machine learning. The motivation behind the talk came from a recurring question people kept asking me at startup and tech meetups in the town, so I decided to give a talk answering this exact question “How Can A Machine Learn?”.
 
