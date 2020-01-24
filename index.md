@@ -1,7 +1,6 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+![Image of fast.ai logo](images/Skellig_AI_Logo.png)
 
-![Image of fast.ai logo](images/logo.png)
+## Welcome to the Skellig.ai Blog
 
-## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+Welcome to our new blog page for [Skellig.ai](https://www.skellig.ai/)
+Overtime we will populate this blog with posts on community AI programs, machine learning projects and how machine learning can help your organisation. 
