@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Welcome to Skellig.ai - Our first blog
-description: 
+title: Welcome to Skellig.ai
+description: A blog for Skellig.ai
 github_username: skellig-ai
 
 # Email and twitter are optional:
