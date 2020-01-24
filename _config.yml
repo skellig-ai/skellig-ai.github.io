@@ -12,7 +12,7 @@ github_username: skellig-ai
 
 # Email and twitter are optional:
 email: 
-twitter_username: @Iain_Keaney
+twitter_username:
 
 # Set this to true to get LaTeX math equation support
 use_math: 
