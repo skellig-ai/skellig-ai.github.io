@@ -1,6 +1,6 @@
 # The Augmented Scientist Part 1: Practical Application Machine Learning in Classification of SEM Images
 
-![Augmented Science Graphic](../images/AugSci.jpg)
+![Augmented Science Graphic](https://github.com/skellig-ai/skellig-ai.github.io/images/AugSci.jpg)
 
 Welcome to the first blog in our Augmented Scientist series, where we will be looking at how machine learning can be used to improve the way that Scientists work on a day-to-day basis. As this series grows we’ll be looking at more applications for ML to work as a research aid for scientists, removing a lot of repetitive analysis work and allowing them to explore their fields deeper. Both my wife and I come from science backgrounds, her chemistry and me physics. What struck me when I started working on machine learning is the enormous opportunity to speed up much of the tedious analysis that consumes so much time in research labs.
 
