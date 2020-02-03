@@ -1,6 +1,6 @@
-# Augmented Scientist Part 1: Practical Application Machine Learning in Classification of SEM Images
+# The Augmented Scientist Part 1: Practical Application Machine Learning in Classification of SEM Images
 
-![Augmented Science Graphic](https://github.com/skellig-ai/skellig-ai.github.io/images/AugSci.jpg)
+![Augmented Science Graphic](../images/AugSci.jpg)
 
 Welcome to the first blog in our Augmented Scientist series, where we will be looking at how machine learning can be used to improve the way that Scientists work on a day-to-day basis. As this series grows we’ll be looking at more applications for ML to work as a research aid for scientists, removing a lot of repetitive analysis work and allowing them to explore their fields deeper. Both my wife and I come from science backgrounds, her chemistry and me physics. What struck me when I started working on machine learning is the enormous opportunity to speed up much of the tedious analysis that consumes so much time in research labs.
 
@@ -9,7 +9,7 @@ As our first exploration into the concept of the Augmented Scientist, our goal h
 ## What is SEM?
 The first area that we’re going to look at is SEM image analysis, a technique my wife, as an electrochemist, has worked with extensively throughout her career. SEM is used extensively in chemistry and biology to create images of surfaces at a nanometer scale. It works by scanning a surface with a focused electron beam. The reflection of electrons off the surface creates an image of the topography and composition of the surface.
 
-![wiki SEM images](../images/SEM_images_2.PNG) 
+![wiki SEM images](../images/SEM_images_2.png) 
 
 source: [https://en.wikipedia.org/wiki/Scanning_electron_microscope](https://en.wikipedia.org/wiki/Scanning_electron_microscope)
 
