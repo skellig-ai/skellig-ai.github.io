@@ -9,7 +9,7 @@ As our first exploration into the concept of the Augmented Scientist, our goal h
 ## What is SEM?
 The first area that we’re going to look at is SEM image analysis, a technique my wife, as an electrochemist, has worked with extensively throughout her career. SEM is used extensively in chemistry and biology to create images of surfaces at a nanometer scale. It works by scanning a surface with a focused electron beam. The reflection of electrons off the surface creates an image of the topography and composition of the surface.
 
-![wiki SEM images](https://skellig-ai.github.io/images/SEM_images_2.PNG "Images for blog 2") 
+![wiki SEM images](https://skellig-ai.github.io/images/SEM_images_2.PNG) 
 
 source: [https://en.wikipedia.org/wiki/Scanning_electron_microscope](https://en.wikipedia.org/wiki/Scanning_electron_microscope)
 
