@@ -52,7 +52,5 @@ Our implementation can be found in our GitHub repository, [here](https://github.
 ## Concluding Remarks:
 I hope you enjoyed the first blog post in our Augmented Scientist series. This series will explore more avenues where machine learning can be used to assist the work of Scientists across many disciplines. If you’re interested in getting involved, or have examples of where you’ve used machine learning to augment your own work please let us know, we’d love to hear from you.
 
-## Author
+#### Author
 Iain Keaney
-[LinkedIn](https://www.linkedin.com/in/iain-keaney-9a668b47/)
-[Twitter](https://twitter.com/Iain_Keaney)
