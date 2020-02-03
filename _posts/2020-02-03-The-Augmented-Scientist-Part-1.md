@@ -1,4 +1,4 @@
-# Augmented Scientist Part 1: Practical Application Machine Learning in Classification of SEM Images
+# The Augmented Scientist Part 1: Practical Application Machine Learning in Classification of SEM Images
 
 ![Augmented Science Graphic](https://skellig-ai.github.io/images/AugSci.jpg)
 
