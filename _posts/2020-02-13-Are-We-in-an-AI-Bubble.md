@@ -32,6 +32,6 @@ These types of insights aren’t only good for businesses, other applications ar
 
 #### Iain Keaney
 
-<img src="https://skellig-ai.github.io/images/LinkedIn_logo.png" align="left" width="35" height="35">[LinkedIn](https://www.linkedin.com/in/iain-keaney-9a668b47/)
+[LinkedIn](https://www.linkedin.com/in/iain-keaney-9a668b47/)
 
-<img src="https://skellig-ai.github.io/images/twitter_PNG3.png" align="left" width="40" height="40">[Twitter](https://twitter.com/Iain_Keaney)
+[Twitter](https://twitter.com/Iain_Keaney)
