@@ -28,8 +28,6 @@ When it comes to business, AI has a remarkable tendency to solve really difficul
 These types of insights aren’t only good for businesses, other applications are seeing AI being used to fight [climate change](https://openclimatefix.org/), help deliver aid to [disaster areas](https://www.cosmiqworks.org/) and combat against [deforestation](https://docs.google.com/viewer?url=https://github.com/DeltaAnalytics/machine_learning_resources/raw/master/ML_Conf_2017_Seattle.pdf). In the same manner as the internet has become a focal point of our day-to-day lives, I think we can assume the permanence of AI in society. If you know of some great application of AI, in your organisation or elsewhere, that you find is delivering real value, let me know at iain@skellig.ai, I would love to hear from you!
 
 ### Author
-<img src="https://skellig-ai.github.io/images/Profile_Pic_Grey.png" width="10%" height="10%">
-
+<img src="https://skellig-ai.github.io/images/Profile_Pic_Grey.png" align="left" width="20%" height="20%">
 #### Iain Keaney
-
-[<img src="https://skellig-ai.github.io/images/LinkedIn_logo.png" width="25" height="25">](https://www.linkedin.com/in/iain-keaney-9a668b47/)    [<img src="https://skellig-ai.github.io/images/twitter_PNG3.png" width="25" height="25">](https://twitter.com/Iain_Keaney)
+[<img src="https://skellig-ai.github.io/images/LinkedIn_logo.png" align="left" width="35" height="35">](https://www.linkedin.com/in/iain-keaney-9a668b47/)    [<img src="https://skellig-ai.github.io/images/twitter_PNG3.png" align="left" width="35" height="35">](https://twitter.com/Iain_Keaney)
